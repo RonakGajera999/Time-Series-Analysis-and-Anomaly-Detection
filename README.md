@@ -8,3 +8,11 @@ After Data aquisition we can make a csv file for further processing or hand over
 Anomalies : A unexceptional behaviour in the dataset, Even its normal or abnormal with respect to time. Where the many time voltage is high or some time negative. Diffrenceate with each other is easy but companset and throughout to caliber is difficult for system.
 
 Major breakdown happen, When two environmental season is crossover or in extreame condition of heat. Mahine can not sustain in extream heat temprature in Summer due to its alrady an heated due to friction. 
+
+Machine Status: Which can show the physical state after Explotratory Analysis We can find the condition of sensor in accordance4 with Normal Broken and recovering.
+
+Equcation: 100 * Data ["Machine Status"].value_Count()/len (Data)
+
+Normal 93.425926
+Recover 6.570897
+Broken 0.003177
