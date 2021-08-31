@@ -7,4 +7,4 @@ After Data aquisition we can make a csv file for further processing or hand over
 
 Anomalies : A unexceptional behaviour in the dataset, Even its normal or abnormal with respect to time. Where the many time voltage is high or some time negative. Diffrenceate with each other is easy but companset and throughout to caliber is difficult for system.
 
-MAjor breakdown happen, When two environmental season is crossover or in extreame condition of heat. Mahine can not sustain in extream heat temprature in Summer due to its alrady an heated due to friction. 
+Major breakdown happen, When two environmental season is crossover or in extreame condition of heat. Mahine can not sustain in extream heat temprature in Summer due to its alrady an heated due to friction. 
